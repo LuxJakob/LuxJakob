@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 🐸
+
+I'm **Jakob Lux**, a software engineer passionate about CI/CD, DevOps, and always exploring the latest technologies. :technologist:
+
+:oncoming_taxi: Currently, I work at [1&1 Telecommunication SE](https://www.1und1.ag/the-company), where we're building Germany’s next-generation 5G network!
+
+:mortar_board: At the moment, I'm fully engaged in writing my bachelor thesis.
+
+:snake: I'm also diving into Python, embracing the challenge of mastering this powerful and versatile language!
+
+:globe_with_meridians: Visit my website for more: [LINK](https://luxjakob.github.io/)
 
 <!--
 **LuxJakob/LuxJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
