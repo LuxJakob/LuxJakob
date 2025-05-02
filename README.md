@@ -1,24 +1,13 @@
 ## Hi there! :wave:
 
-I'm **Jakob Lux**, an aspiring software engineer passionate about CI/CD, DevOps, and always exploring new technologies. :technologist:
+I'm **Jakob Lux**, a **Data Engineer** with a passion for turning data into solutions—armed with Python, CI/CD, and a constant curiosity for new tech. :technologist:
 
-:rocket: Currently, I'm contributing to the development of Germany’s next-generation 5G network at [1&1 AG](https://www.1und1.ag/the-company).
+:droplet: Currently, I'm working at [Zweckverband Landeswasserversorgung](https://www.lw-online.de/), where I contribute to ensuring reliable water supply through technology.
 
-:mortar_board: I recently completed my bachelor's degree, including my thesis, and I'm now looking for a role where I can contribute, grow, and make an impact as a software engineer.
+:mortar_board: I recently completed my bachelor's degree, and I'm excited to apply my knowledge in my current role.
 
 :globe_with_meridians: For more about me and my projects, check out my website: **[luxjakob.github.io](https://luxjakob.github.io/)**.
 
 <!--
 **LuxJakob/LuxJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
