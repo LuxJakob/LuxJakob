@@ -8,17 +8,25 @@ I'm **Jakob Lux**, an aspiring software engineer passionate about CI/CD, DevOps,
 
 :globe_with_meridians: For more about me and my projects, check out my website: **[luxjakob.github.io](https://luxjakob.github.io/)**.
 
-<!--
-**LuxJakob/LuxJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuxJakob&hide_border=true&theme=highcontrast" alt="GitHub Streak Stats"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuxJakob&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="LuxJakob GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxJakob&hide=GAP&card_width=500&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuxJakob" alt="Profile Views" />
+</p>
+--->
